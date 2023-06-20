@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="958afced-b4e9-4404-bc50-86cafa29d0b0" name="Changes" comment="Last Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/ClientUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/IGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/ReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codec/ReedMuller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/ClientAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/ClientUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/ClientUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/IGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/ReadThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/codec/ReedMuller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/server/ClientAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/server/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Описание к программе.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R6GbJHKl6r256ki0FabtedjujA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects/Java/Chat",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\Chat" />
+      <recent name="D:\Projects\Java\Chat\src\main\java\client" />
+      <recent name="D:\Projects\Java\Chat\src\main\java\Client\Client" />
+      <recent name="D:\Projects\Java\Chat\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReedMuller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codec.ReedMuller" />
+      <module name="Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.ReedMuller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="958afced-b4e9-4404-bc50-86cafa29d0b0" name="Changes" comment="" />
+      <created>1686563189118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686563189118</updated>
+      <workItem from="1686563190456" duration="8544000" />
+      <workItem from="1686575668598" duration="2005000" />
+      <workItem from="1686614491876" duration="912000" />
+      <workItem from="1686731248327" duration="1856000" />
+      <workItem from="1686768815004" duration="9385000" />
+      <workItem from="1686914593726" duration="2885000" />
+      <workItem from="1686936035602" duration="10957000" />
+      <workItem from="1686965931293" duration="1708000" />
+      <workItem from="1686996047050" duration="10000" />
+      <workItem from="1687029470224" duration="391000" />
+      <workItem from="1687033602334" duration="265000" />
+      <workItem from="1687038009871" duration="249000" />
+      <workItem from="1687038266334" duration="70000" />
+      <workItem from="1687087368133" duration="1299000" />
+    </task>
+    <task id="LOCAL-00001" summary="FirstCommit">
+      <created>1686575768258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686575768258</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1686967007301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686967007301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="FirstCommit" />
+    <MESSAGE value="Second commit" />
+    <MESSAGE value="Last Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last Commit" />
+  </component>
+</project>
